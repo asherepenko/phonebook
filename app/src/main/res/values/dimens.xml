@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Default offsets -->
+    <dimen name="view_margin_horizontal">16dp</dimen>
+    <dimen name="view_margin_vertical">16dp</dimen>
+    <dimen name="view_padding_horizontal">16dp</dimen>
+    <dimen name="view_padding_vertical">16dp</dimen>
+
+    <dimen name="action_margin_horizontal">16dp</dimen>
+    <dimen name="action_margin_vertical">8dp</dimen>
+
+    <dimen name="thumbnail_width">48dp</dimen>
+    <dimen name="thumbnail_height">48dp</dimen>
+
+    <dimen name="phone_margin_top">20dp</dimen>
+    <dimen name="phone_margin_bottom">16dp</dimen>
+
+    <dimen name="phone_margin_horizontal">32dp</dimen>
+    <dimen name="phone_padding">16dp</dimen>
+
+    <dimen name="phone_text_size">16sp</dimen>
+</resources>
